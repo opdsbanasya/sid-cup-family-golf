@@ -1,4 +1,4 @@
-# Sid-Cup Family Landing Page
+![image](https://github.com/user-attachments/assets/97e9608a-0559-4082-83ea-8efa56014e65)# Sid-Cup Family Landing Page
 
 - I took a Reference from Sheryians Coding School.
 - I used HTML5, CSS3, JavaScript, and GSAP in this project.
@@ -16,3 +16,6 @@ This project demonstrates the application of modern web technologies to create a
 - **GSAP (GreenSock Animation Platform)**: Used to create smooth and performant animations, bringing the landing page to life with dynamic transitions and effects.
 
 This project is a testament to my skills in web development and my commitment to creating high-quality, user-centric web applications. Feel free to explore the code and provide any feedback or suggestions.
+
+### Link
+https://opdsbanasya.github.io/sid-cup-family-golf/
