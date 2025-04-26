@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/97e9608a-0559-4082-83ea-8efa56014e65)# Sid-Cup Family Landing Page
+# Sid-Cup Family Landing Page
 
 - I took a Reference from Sheryians Coding School.
 - I used HTML5, CSS3, JavaScript, and GSAP in this project.
